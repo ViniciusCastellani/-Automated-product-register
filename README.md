@@ -48,7 +48,7 @@ The script consists of three main functions:
 
 ## Known Issues
 
-The script uses absolute coordinates for mouse clicks, which means it might not work correctly on different screen resolutions or if the layout of the website changes. Adjust the coordinates according to your screen resolution and the current layout of the website. You can run the code `get_position.py` to get the coordinates of your mouse (it will be printed in the terminal)
+The script uses absolute coordinates for mouse clicks, which means it might not work correctly on different screen resolutions or if the layout of the website changes. Adjust the coordinates according to your screen resolution and the current layout of the website. You can run the code `python get_position.py` to get the coordinates of your mouse (it will be printed in the terminal)
 
 Also, the script assumes that Chrome is the default browser on your device. If you're using a different browser, you'll need to modify the script accordingly.
 
