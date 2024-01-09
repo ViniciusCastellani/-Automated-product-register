@@ -2,13 +2,19 @@
 
 This project is a Python script that automates the process of logging into a website and registering products. It uses the `pyautogui` library to simulate mouse clicks and keyboard inputs.
 
-###### Login page
+#### Login page
 
-![1704834764837](image/README/1704834764837.png)
+![1704836697196](image/README/1704836697196.png)
 
-###### Product registration form
+#### Product registration form
 
-![1704834890647](image/README/1704834890647.png)
+
+
+![1704836740431](image/README/1704836740431.png)
+
+#### Table of registered products
+
+![1704836822500](image/README/1704836822500.png)
 
 ## Requirements
 
